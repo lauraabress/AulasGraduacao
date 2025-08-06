@@ -1,6 +1,5 @@
-package aula_2907;
+package aulas.aula_2907;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
 public class PessoaMain {
